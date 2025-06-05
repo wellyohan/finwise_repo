@@ -1,0 +1,5 @@
+# This is a placeholder requirements.txt file.
+# Please replace the following packages with the actual Python dependencies for your project.
+
+Flask==2.3.3
+python-dotenv==1.0.0
